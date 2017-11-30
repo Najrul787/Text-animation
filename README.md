@@ -16,4 +16,4 @@ var options = {
 }
 $('.demo').animQText(options);
 ```
-You can use [Animate.css](https://daneden.github.io/animate.css/) all classes for `` effectIn  `` & `` effectOut `` Animation
+You can use all [Animate.css](https://daneden.github.io/animate.css/)  classes for `` effectIn  `` & `` effectOut `` Animation
