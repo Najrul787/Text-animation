@@ -1,15 +1,16 @@
 ## QTextAnimation
 
 #### Use
-$(selector).animQText(options);
+```javascript $(selector).animQText(options); ```
 
+#### code
 ```javascript
 var options = {
-    effectIn: 'rollIn',
-		effectOut: 'rollOut',
-		delay:  800,
-		duration: 500,
-		revers: false,
+   effectIn: 'rollIn',
+   effectOut: 'rollOut',
+   delay:  800,
+   duration: 500,
+   revers: false,
 }
 $('.demo').animQText(options);
 ```
