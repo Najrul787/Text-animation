@@ -1,5 +1,12 @@
 ## QTextAnimation
 
+#### Require Files
+```html
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="js/text-animation.js"></script>
+```
+
 #### Use
 ```javascript
 $(selector).animQText(options); 
