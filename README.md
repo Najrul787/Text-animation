@@ -1,7 +1,9 @@
 ## QTextAnimation
 
 #### Use
-```javascript $(selector).animQText(options); ```
+```javascript
+$(selector).animQText(options); 
+```
 
 #### code
 ```javascript
